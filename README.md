@@ -1,6 +1,5 @@
 # Coursera---Applied-Text-Mining-in-Python
 
----
 
 This repository contained the tests and assignments I did as well as most of the course resources. 
 
