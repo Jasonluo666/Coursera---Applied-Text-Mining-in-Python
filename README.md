@@ -1,7 +1,7 @@
 # Coursera---Applied-Text-Mining-in-Python
 
 
-This repository contained the tests and assignments I did as well as most of the course resources. 
+This repository contained the tests and assignments (auto-graded) I did as well as most of the course resources. 
 
 View My Course Certificate: https://www.coursera.org/account/accomplishments/certificate/PCJELKF6LJHA
 
